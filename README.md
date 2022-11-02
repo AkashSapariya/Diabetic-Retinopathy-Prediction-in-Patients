@@ -23,3 +23,16 @@ The following list summarizes the information of the variables
 
 
 [![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=FyJByXyEQbg)](https://www.youtube.com/watch?v=FyJByXyEQbg&t=2s&ab_channel=EyeSmart%E2%80%94AmericanAcademyofOphthalmology)
+
+
+Streamlit Model Output Case 1:
+
+
+![image](https://user-images.githubusercontent.com/97176234/199556337-15b1ae84-653d-4e0e-8c4c-7aff5e41f453.png)
+
+
+Streamlit Model Output Case 2:
+
+
+![image](https://github.com/AkashSapariya/Diabetic-Retinopathy-Prediction-in-Patients/blob/main/suffering%20retinopathy.jpg)
+
